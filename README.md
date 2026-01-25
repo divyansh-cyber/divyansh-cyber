@@ -16,17 +16,12 @@ I’m an undergraduate at **IIT (BHU) Varanasi** with a strong interest in softw
 
 ## 🛠️ Skills
 
-### Programming Languages
-- C++
-- Python
-- SQL
-
 ### Frameworks & Technologies
 - **Backend:** ASP.NET Core, FastAPI, Node.js, Express.js  
-- **Frontend:** React.js, Next.js, Angular, Tailwind CSS  
-- **Databases:** PostgreSQL, MySQL, MongoDB, SQLite  
+- **Frontend:** React.js, Next.js, Angular  
+- **Databases:** PostgreSQL, MongoDB, SQLite  
 - **AI / ML:** RAG (FAISS), LLM integrations  
-- **DevOps & Infra:** Docker, Redis, Nginx  
+- **DevOps & Infra:** Docker, Redis
 
 ### Core CS
 - Data Structures & Algorithms  
