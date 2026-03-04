@@ -82,11 +82,6 @@ const divyansh = {
 
 </div>
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/DIVYANSHRAI2023?theme=dark&font=Fira%20Code&ext=contest&border=0&radius=20" alt="LeetCode Stats" height="200"/>
-</div>
-
----
 
 ## 📊 GitHub Stats
 
@@ -115,8 +110,6 @@ const divyansh = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-rai-619996281/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/roger_goat_div)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DIVYANSHRAI2023/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raidivyansh899@gmail.com)
 
 </div>
