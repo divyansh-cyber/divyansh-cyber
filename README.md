@@ -81,11 +81,6 @@ const divyansh = {
 | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/DIVYANSHRAI2023/) | ⚔️ **Knight** — Rating **1894** (Top **4.88%**) |
 
 </div>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/DIVYANSHRAI2023?theme=dark&font=Fira%20Code&ext=contest&border=0&radius=20" alt="LeetCode Stats" height="200"/>
-</div>
-
 ---
 
 ## 📊 GitHub Stats
