@@ -77,8 +77,8 @@ const divyansh = {
 
 | Platform | Achievement |
 |:---:|:---:|
-| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/roger_goat_div) | 🔵 **Specialist** — Rating **1414** |
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/DIVYANSHRAI2023/) | ⚔️ **Knight** — Rating **1894** (Top **4.88%**) |
+| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/roger_goat_div) | 🔵 **Specialist** — Rating **1480** |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/DIVYANSHRAI2023/) | ⚔️ **Knight** — Rating **1942** (Top **3.96%**) |
 
 </div>
 
